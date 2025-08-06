@@ -1,0 +1,14 @@
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\bin\Debug\net8.0\CarteadoVisualStudio.exe
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\bin\Debug\net8.0\CarteadoVisualStudio.deps.json
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\bin\Debug\net8.0\CarteadoVisualStudio.runtimeconfig.json
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\bin\Debug\net8.0\CarteadoVisualStudio.dll
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\bin\Debug\net8.0\CarteadoVisualStudio.pdb
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\obj\Debug\net8.0\CarteadoVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\obj\Debug\net8.0\CarteadoVisualStudio.AssemblyInfoInputs.cache
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\obj\Debug\net8.0\CarteadoVisualStudio.AssemblyInfo.cs
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\obj\Debug\net8.0\CarteadoVisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\obj\Debug\net8.0\CarteadoVisualStudio.dll
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\obj\Debug\net8.0\refint\CarteadoVisualStudio.dll
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\obj\Debug\net8.0\CarteadoVisualStudio.pdb
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\obj\Debug\net8.0\CarteadoVisualStudio.genruntimeconfig.cache
+C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\obj\Debug\net8.0\ref\CarteadoVisualStudio.dll
