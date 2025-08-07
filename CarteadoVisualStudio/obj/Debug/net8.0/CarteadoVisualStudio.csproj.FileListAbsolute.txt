@@ -12,3 +12,4 @@ C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\obj\Debug\
 C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\obj\Debug\net8.0\CarteadoVisualStudio.pdb
 C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\obj\Debug\net8.0\CarteadoVisualStudio.genruntimeconfig.cache
 C:\Users\abcos\source\repos\CarteadoVisualStudio\CarteadoVisualStudio\obj\Debug\net8.0\ref\CarteadoVisualStudio.dll
+C:\Users\abcos\source\repos\CarteadoVisualStudio\carteadovisualstudio\obj\Debug\net8.0\CarteadoVisualStudio.sourcelink.json

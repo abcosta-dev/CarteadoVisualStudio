@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\abcos\\source\\repos\\CarteadoVisualStudio\\CarteadoVisualStudio\\CarteadoVisualStudio.csproj": {}
+    "C:\\Users\\abcos\\source\\repos\\CarteadoVisualStudio\\carteadovisualstudio\\CarteadoVisualStudio.csproj": {}
   },
   "projects": {
-    "c:\\Users\\abcos\\source\\repos\\CarteadoVisualStudio\\CarteadoVisualStudio\\CarteadoVisualStudio.csproj": {
+    "C:\\Users\\abcos\\source\\repos\\CarteadoVisualStudio\\carteadovisualstudio\\CarteadoVisualStudio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\abcos\\source\\repos\\CarteadoVisualStudio\\CarteadoVisualStudio\\CarteadoVisualStudio.csproj",
+        "projectUniqueName": "C:\\Users\\abcos\\source\\repos\\CarteadoVisualStudio\\carteadovisualstudio\\CarteadoVisualStudio.csproj",
         "projectName": "CarteadoVisualStudio",
-        "projectPath": "c:\\Users\\abcos\\source\\repos\\CarteadoVisualStudio\\CarteadoVisualStudio\\CarteadoVisualStudio.csproj",
+        "projectPath": "C:\\Users\\abcos\\source\\repos\\CarteadoVisualStudio\\carteadovisualstudio\\CarteadoVisualStudio.csproj",
         "packagesPath": "C:\\Users\\abcos\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\abcos\\source\\repos\\CarteadoVisualStudio\\CarteadoVisualStudio\\obj\\",
+        "outputPath": "C:\\Users\\abcos\\source\\repos\\CarteadoVisualStudio\\carteadovisualstudio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
