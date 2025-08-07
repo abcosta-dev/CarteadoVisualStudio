@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarteadoVisualStudio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38e8cf3b10df809183629cdf4c659a7f73155e28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54d0a99192227e6ac9e2a97cc808ae56774f8cf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarteadoVisualStudio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarteadoVisualStudio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
